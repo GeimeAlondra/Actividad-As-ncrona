@@ -49,7 +49,7 @@ if n > 0:
 
 # En este print(), se hace el conteo de datos que el usuario ha ingresado y los separa para cada uno de los tres tipos.
 
-print(f'\nLa cantidad de numeros positivos fue: {positivos}2\nLa cantidad de numeros negativos fue: {negativos}\nLa cantidad de numeros nulos fue: {nulos}')
+print(f'\nLa cantidad de numeros positivos fue: {positivos}\nLa cantidad de numeros negativos fue: {negativos}\nLa cantidad de numeros nulos fue: {nulos}')
 
 print('\nFin del programa')
 
